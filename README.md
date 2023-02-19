@@ -13,8 +13,11 @@ In my spare time I'm a musician, currently playing in the following projects:
   <li> <a href="https://cavalieredellarosarossa.bandcamp.com">Cavaliere della Rosa Rossa</a>, an ambient / dungeon synth one-man band </li>
 </ul>
 
-I'm also member of the Italian collective <a href="https://instagram.com/carceremlupiur" target="blank">Carcerem Lupi Underground Resistance</a>,<br>taking part on their third split release<a href="https://carceremlupiur.bandcamp.com/album/from-the-deepest-mist-of-the-underground">"From the deepest mist of the underground"</a>.<br>
-I'm featured as Scurìu with the track <a href="https://carceremlupiur.bandcamp.com/track/score-for-a-scene-ov-death-underneath-a-starry-night">"Score for a scene ov death underneath a starry night"</a>.
+I'm also member of the Italian collective <a href="https://instagram.com/carceremlupiur" target="blank">Carcerem Lupi Underground Resistance</a>,<br>taking part on:<br>
+<ul>
+<li>their third split release<a href="https://carceremlupiur.bandcamp.com/album/from-the-deepest-mist-of-the-underground">"From the deepest mist of the underground"</a><br> as Scurìu with the track <a href="https://carceremlupiur.bandcamp.com/track/score-for-a-scene-ov-death-underneath-a-starry-night">"Score for a scene ov death underneath a starry night"</a>
+<li>their fourth split release<a href="https://carceremlupiur.bandcamp.com/album/melodies-from-the-ruins">"Melodies from the Ruins"</a><br> as Cavaliere della Rosa Rossa with the track <a href="https://carceremlupiur.bandcamp.com/track/knight-of-the-red-rose">「knight of the red rose 🌹.」</a>
+</ul>
 
 <!---
 omar-jarid/omar-jarid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
