@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omar Jarid</h1>
+<h1 align="center">Omar Jarid</h1>
 <h3 align="center">Mobile developer from Italy</h3>
 
 Working at <a href="https://bitrock.it/it">Bitrock</a> since Semptember 2022.
