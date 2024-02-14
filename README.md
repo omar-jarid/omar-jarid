@@ -5,15 +5,11 @@
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Musician</h3>
-In my spare time I'm a musician, currently playing in the following projects:
-<ul>
-  <li> <a href="https://scuriu.bandcamp.com">Scurìu</a>, a blackened doom metal / dark ambient one-man band </li>
-  <li> <a href="https://cavalieredellarosarossa.bandcamp.com">Cavaliere della Rosa Rossa</a>, an ambient / dungeon synth one-man band </li>
-</ul>
+In my spare time I'm a musician, currently playing in the project <a href="https://cavalieredellarosarossa.bandcamp.com">Cavaliere della Rosa Rossa</a>, an ambient / dungeon synth one-man band.
 
 I'm also member of the Italian collective <a href="https://instagram.com/carceremlupiur" target="blank">Carcerem Lupi Underground Resistance</a>,<br>taking part on:<br>
 <ul>
-<li>their third split release<a href="https://carceremlupiur.bandcamp.com/album/from-the-deepest-mist-of-the-underground">"From the deepest mist of the underground"</a><br> as Scurìu with the track <a href="https://carceremlupiur.bandcamp.com/track/score-for-a-scene-ov-death-underneath-a-starry-night">"Score for a scene ov death underneath a starry night"</a>
+<li>their third split release<a href="https://carceremlupiur.bandcamp.com/album/from-the-deepest-mist-of-the-underground">"From the deepest mist of the underground"</a><br> with my old project Scurìu with the track <a href="https://carceremlupiur.bandcamp.com/track/score-for-a-scene-ov-death-underneath-a-starry-night">"Score for a scene ov death underneath a starry night"</a>
 <li>their fourth split release<a href="https://carceremlupiur.bandcamp.com/album/melodies-from-the-ruins">"Melodies from the Ruins"</a><br> as Cavaliere della Rosa Rossa with the track <a href="https://carceremlupiur.bandcamp.com/track/knight-of-the-red-rose">「knight of the red rose 🌹.」</a>
 </ul>
 
