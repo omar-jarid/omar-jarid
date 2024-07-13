@@ -13,6 +13,12 @@ I'm also member of the Italian collective <a href="https://instagram.com/carcere
 <li>their fourth split release<a href="https://carceremlupiur.bandcamp.com/album/melodies-from-the-ruins">"Melodies from the Ruins"</a><br> as Cavaliere della Rosa Rossa with the track <a href="https://carceremlupiur.bandcamp.com/track/knight-of-the-red-rose">「knight of the red rose 🌹.」</a>
 </ul>
 
+You can find my links here:<br>
+<ul>
+<li><a href="https://linktr.ee/jerid616plays">Jerid616Plays</a>, all the social accounts related to my YouTube channel as a musician
+<li><a href="https://linktr.ee/cavalieredellarosarossa">Jerid616Plays</a>, all the social accounts related to Cavaliere della Rosa Rossa
+</ul>
+
 <!---
 omar-jarid/omar-jarid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -24,4 +30,3 @@ You can click the Preview link to take a look at your changes.
 <a href="https://linkedin.com/in/omar-jarid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-jarid" height="30" width="40" /></a>
 <a href="https://instagram.com/jerid616" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jerid616" height="30" width="40" /></a>
 </p>
-
