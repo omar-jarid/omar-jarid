@@ -15,8 +15,8 @@ I'm also member of the Italian collective <a href="https://instagram.com/carcere
 
 You can find my links here:<br>
 <ul>
-<li><a href="https://linktr.ee/jerid616plays">Jerid616Plays</a>, all the social accounts related to my YouTube channel as a musician
-<li><a href="https://linktr.ee/cavalieredellarosarossa">Jerid616Plays</a>, all the social accounts related to Cavaliere della Rosa Rossa
+<li><a href="https://linktr.ee/jerid616plays">all the links related to Jerid616Plays, my YouTube channel as a musician</a>
+<li><a href="https://linktr.ee/cavalieredellarosarossa">all the links related to Cavaliere della Rosa Rossa</a>
 </ul>
 
 <!---
