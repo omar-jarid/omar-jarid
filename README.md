@@ -33,8 +33,13 @@
 </p>
 
 <h3 align="left">Musician</h3>
-My goal is to become a professional musician. I'm currently playing in the project <a href="https://cavalieredellarosarossa.bandcamp.com">Cavaliere della Rosa Rossa</a>, an electronic one-man band.
+My goal is to become a professional musician. I'm currently playing in the following projects:<br>
+<ul>
+  <li> <a href="https://cavalieredellarosarossa.bandcamp.com">Cavaliere della Rosa Rossa</a>, an electronic one-man band
+  <li> a folk band yet to be named, as a bassist
+</ul>
 
+ 
 I'm also member of the Italian collective <a href="https://instagram.com/carceremlupiur" target="blank">Carcerem Lupi Underground Resistance</a>, taking part on:<br>
 <ul>
 <li>their third split release <a href="https://carceremlupiur.bandcamp.com/album/from-the-deepest-mist-of-the-underground">"From the deepest mist of the underground"</a><br> with my old project Scurìu with the track <a href="https://carceremlupiur.bandcamp.com/track/score-for-a-scene-ov-death-underneath-a-starry-night">"Score for a scene ov death underneath a starry night"</a>
