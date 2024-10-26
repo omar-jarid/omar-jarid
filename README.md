@@ -24,10 +24,10 @@
   <a href="https://developer.apple.com/ios/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" alt="iOS" width="40" height="40" />
   </a>
-  <a>
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" alt="Swift" width="40" height="40" />
   </a>
-  <a>
+  <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40" />            
   </a>
 </p>
