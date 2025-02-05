@@ -10,10 +10,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="android_studio" width="40" height="40" />  
 </p>
 <br><br> 
-<p align="left">
+<!-- <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" /> (PL/SQL and Forms 6i)
 </p>
-<br><br> 
+<br><br> -->
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML 5" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS 3" width="40" height="40" />          
