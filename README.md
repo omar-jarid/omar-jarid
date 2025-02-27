@@ -1,5 +1,5 @@
 <h1 align="center">Omar Jarid</h1>
-<h2 align="center">Musician and Junior Mobile Developer from Italy</h3>
+<h2 align="center">WIP</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -31,6 +31,10 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="40" height="40" />
 </p>
+<br><br> 
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+</p>
 
 <h3 align="left">Musician</h3>
 My goal is to become a professional musician. I'm currently playing in the following projects:<br>
@@ -57,6 +61,13 @@ omar-jarid/omar-jarid is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
+<h3 align="left">Other skills</h3>
+<h4>Currently learning:</h4>
+<p align="left">  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain-wordmark.svg" alt="Unity" width="40" height="40" />
+</p>
+<br><br> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
