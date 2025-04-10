@@ -36,11 +36,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40" />
 </p>
 
+<h3>The Odin Project - Projects so far</h3>
+<a href="https://omar-jarid.github.io/odin-recipes/">Recipes</a>
+
 <h3 align="left">Musician</h3>
 My goal is to become a professional musician. I'm currently playing in the following projects:<br>
 <ul>
   <li> <a href="https://cavalieredellarosarossa.bandcamp.com">Cavaliere della Rosa Rossa</a>, an electronic one-man band
-  <li> a folk band yet to be named, as a bassist
+  <li> pagan folk band Rosa Profana, as a bassist
 </ul>
 
  
