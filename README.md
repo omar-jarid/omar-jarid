@@ -68,13 +68,13 @@ omar-jarid/omar-jarid is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<h3 align="left">Other skills</h3>
+<!-- <h3 align="left">Other skills</h3>
 <h4>Currently learning:</h4>
 <p align="left">  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain-wordmark.svg" alt="Unity" width="40" height="40" />
 </p>
-<br><br> 
+<br><br> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
