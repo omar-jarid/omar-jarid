@@ -28,11 +28,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40" />            
   </a>
 </p>
-<br><br> 
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="40" height="40" />
 </p>
-<br><br> 
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40" />
 </p>
