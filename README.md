@@ -20,7 +20,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40" />
 </p>
-<br><br>  --> 
+<br><br> 
 <h4>Currently learning:</h4>
 <p align="left">  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" alt="iOS" width="40" height="40" />
@@ -36,7 +36,7 @@
 </p>
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" width="40" height="40" />
-</p>
+</p>  -->
 
 <!-- <h3>The Odin Project - Projects so far</h3>
 <a href="https://omar-jarid.github.io/odin-recipes/">Recipes</a> -->
