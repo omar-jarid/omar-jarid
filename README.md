@@ -13,14 +13,14 @@
 <!-- <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" /> (PL/SQL and Forms 6i)
 </p>
-<br><br> -->
+<br><br>
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML 5" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS 3" width="40" height="40" />          
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40" />
 </p>
-<br><br> 
+<br><br>  --> 
 <h4>Currently learning:</h4>
 <p align="left">  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" alt="iOS" width="40" height="40" />
@@ -40,8 +40,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" width="40" height="40" />
 </p>
 
-<h3>The Odin Project - Projects so far</h3>
-<a href="https://omar-jarid.github.io/odin-recipes/">Recipes</a>
+<!-- <h3>The Odin Project - Projects so far</h3>
+<a href="https://omar-jarid.github.io/odin-recipes/">Recipes</a> -->
 
 <h3 align="left">Musician</h3>
 My goal is to become a professional musician. I'm currently playing in the following projects:<br>
