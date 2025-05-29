@@ -44,7 +44,7 @@
 <h3 align="left">Musician</h3>
 My goal is to become a professional musician. I'm currently playing in the following projects:<br>
 <ul>
-    <li> <a href="https://cavalieredellarosarossa.bandcamp.com">Cavaliere della Rosa Rossa</a>, an electronic one-man band</li>
+    <li> <a href="https://cavalieredellarosarossa.bandcamp.com">Cavaliere della Rosa Rossa</a>, an ambient/dungeon synth one-man band</li>
     <li> pagan folk band Rosa Profana, as a bassist</li>
 </ul>
 
