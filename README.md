@@ -51,7 +51,7 @@
 My goal is to become a professional musician. I'm currently playing in the following projects:<br>
 <ul>
     <li> <a href="https://cavalieredellarosarossa.bandcamp.com">Cavaliere della Rosa Rossa</a>, an ambient/dungeon synth one-man band</li>
-    <li> pagan folk band Rosa Profana, as a bassist</li>
+    <li> pagan folk band <a href="https://www.youtube.com/@RosaProfana-PaganFolk-Band">Rosa Profana</a>, as a bassist</li>
 </ul>
 
  
@@ -65,6 +65,7 @@ You can find my links here:<br>
 <ul>
     <li><a href="https://linktr.ee/jerid616plays">all the links related to Jerid616Plays, my YouTube channel as a musician</a></li>
     <li><a href="https://linktr.ee/cavalieredellarosarossa">all the links related to Cavaliere della Rosa Rossa</a></li>
+    <li><a href="https://linktr.ee/rosaprofana">all the links related to Rosa Profana</a></li>
 </ul>
 
 <!---
