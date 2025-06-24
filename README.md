@@ -48,7 +48,7 @@
 <a href="https://omar-jarid.github.io/odin-recipes/">Recipes</a> -->
 
 <h3 align="left">Musician</h3>
-My goal is to become a professional musician. I'm currently playing in the following projects:<br>
+I'm currently playing in the following projects:<br>
 <ul>
     <li> <a href="https://cavalieredellarosarossa.bandcamp.com">Cavaliere della Rosa Rossa</a>, an ambient/dungeon synth one-man band</li>
     <li> pagan folk band <a href="https://www.youtube.com/@RosaProfana-PaganFolk-Band">Rosa Profana</a>, as a bassist</li>
