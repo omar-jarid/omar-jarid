@@ -1,5 +1,5 @@
 <h1 align="center">Omar Jarid</h1>
-<h2 align="center">WIP</h3>
+<h2 align="center">Software Developer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
