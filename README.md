@@ -81,9 +81,9 @@ I'm currently playing in the following projects:
 
 
 - [Cavaliere della Rosa Rossa](https://cavalieredellarosarossa.bandcamp.com), an ambient/dungeon synth one-man band
-- black metal project [Tre pistoni](https://fidcborghesiassassini.bandcamp.com/album/lasciando-i-pensieri-umani), as a bassist
+- black metal project [Tre Pistoni](https://fidcborghesiassassini.bandcamp.com/album/lasciando-i-pensieri-umani), as a bassist
  
-I'm also member of the Italian collective [Carcerem Lupi Underground Resistance](https://instagram.com/carceremlupiur), taking part on:
+I'm also member of Italian collective [Carcerem Lupi Underground Resistance](https://instagram.com/carceremlupiur), having taken part on:
 
 - their third split release ["From the deepest mist of the underground"](https://carceremlupiur.bandcamp.com/album/from-the-deepest-mist-of-the-underground")
 
