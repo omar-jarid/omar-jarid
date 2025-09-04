@@ -5,23 +5,23 @@
 ### Languages and Tools
 
 #### Mobile development
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=Jetpack%20Compose&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) <br>
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=Jetpack%20Compose&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 #### Front-end development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 
 #### Python & Co.
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)<br>
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
 #### Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![PL/SQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black) <br>
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![PL/SQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 
 
 #### Other languages I know
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white) <br>
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324) <br>
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)<br>
-![Java](https://img.shields.io/badge/Java-FA7343?style=for-the-badge&logoColor=white) ![IntelliJ Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) <br>
+![Java](https://img.shields.io/badge/Java-FA7343?style=for-the-badge&logoColor=white) ![IntelliJ Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 #### Other stuff
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![SourceTree](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white) ![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-100000?style=for-the-badge&logo=github&logoColor=white)<br>
@@ -30,9 +30,7 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) <br>
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white) ![Nhost](https://img.shields.io/badge/Nhost-181818?style=for-the-badge&logoColor=white)
 
-
 <sup>Things I plan to study:<br> *TailWind CSS* • *React Native* • *Native iOS Development* • *Backend Development* • *Django* • *PostgreSQL* • *Unity*  </sup>
-
 
 <!-- <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" /> (PL/SQL and Forms 6i)
@@ -79,25 +77,23 @@
 --- 
 -->
 ## Musician
-I'm currently playing in the following projects:<br>
-<ul>
-    <li> [Cavaliere della Rosa Rossa](https://cavalieredellarosarossa.bandcamp.com), an ambient/dungeon synth one-man band</li>
-    <li> black metal project [Tre pistoni](https://fidcborghesiassassini.bandcamp.com/album/lasciando-i-pensieri-umani), as a bassist</li>
-</ul>
+I'm currently playing in the following projects:
 
+
+- [Cavaliere della Rosa Rossa](https://cavalieredellarosarossa.bandcamp.com), an ambient/dungeon synth one-man band
+- black metal project [Tre pistoni](https://fidcborghesiassassini.bandcamp.com/album/lasciando-i-pensieri-umani), as a bassist
  
-I'm also member of the Italian collective <a href="https://instagram.com/carceremlupiur" target="blank">Carcerem Lupi Underground Resistance</a>, taking part on:<br>
-<ul>
-    <li>their third split release <a href="https://carceremlupiur.bandcamp.com/album/from-the-deepest-mist-of-the-underground">"From the deepest mist of the underground"</a><br> with my old project Scurìu with the track <a href="https://carceremlupiur.bandcamp.com/track/score-for-a-scene-ov-death-underneath-a-starry-night">"Score for a scene ov death underneath a starry night"</a></li>
-    <li>their fourth split release <a href="https://carceremlupiur.bandcamp.com/album/melodies-from-the-ruins">"Melodies from the Ruins"</a><br> as Cavaliere della Rosa Rossa with the track <a href="https://carceremlupiur.bandcamp.com/track/knight-of-the-red-rose">「knight of the red rose 🌹.」</a></li>
-</ul>
+I'm also member of the Italian collective [Carcerem Lupi Underground Resistance](https://instagram.com/carceremlupiur), taking part on:
 
-You can find my links here:<br>
-<ul>
-    <li><a href="https://linktr.ee/jerid616plays">all the links related to Jerid616Plays, my YouTube channel as a musician</a></li>
-    <li><a href="https://linktr.ee/cavalieredellarosarossa">all the links related to Cavaliere della Rosa Rossa</a></li>
-    <li><a href="https://linktr.ee/rosaprofana">all the links related to Rosa Profana</a></li>
-</ul>
+- their third split release ["From the deepest mist of the underground"](https://carceremlupiur.bandcamp.com/album/from-the-deepest-mist-of-the-underground")
+
+with my old project Scurìu with the track ["Score for a scene ov death underneath a starry night"](https://carceremlupiur.bandcamp.com/track/score-for-a-scene-ov-death-underneath-a-starry-night")
+- their fourth split release ["Melodies from the Ruins"](https://carceremlupiur.bandcamp.com/album/melodies-from-the-ruins) as Cavaliere della Rosa Rossa with the track [「knight of the red rose 🌹.」](https://carceremlupiur.bandcamp.com/track/knight-of-the-red-rose)
+
+You can find my links here:
+
+- [all the links related to Jerid616Plays, my YouTube channel as a musician](https://linktr.ee/jerid616plays)
+- [all the links related to Cavaliere della Rosa Rossa](https://linktr.ee/cavalieredellarosarossa")
 
 <!-- ## Connect with me
 <a href="https://www.linkedin.com/in/omar-jarid/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
