@@ -80,8 +80,8 @@
 ## Musician
 I'm currently playing in the following projects:<br>
 <ul>
-    <li> <a href="https://cavalieredellarosarossa.bandcamp.com">Cavaliere della Rosa Rossa</a>, an ambient/dungeon synth one-man band</li>
-    <li> pagan folk band <a href="https://www.youtube.com/@RosaProfana-PaganFolk-Band">Rosa Profana</a>, as a bassist</li>
+    <li> [Cavaliere della Rosa Rossa](https://cavalieredellarosarossa.bandcamp.com), an ambient/dungeon synth one-man band</li>
+    <li> black metal project [Tre pistoni](https://fidcborghesiassassini.bandcamp.com/album/lasciando-i-pensieri-umani), as a bassist</li>
 </ul>
 
  
