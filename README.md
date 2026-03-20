@@ -86,9 +86,7 @@
 --- 
 -->
 ## Games developed so far
-<ul>
-    <li>[Virgola, Supremo Signore Felino](https://omarjarid.itch.io/virgola-supremo-signore-felino)</li>
-</ul>
+[Virgola, Supremo Signore Felino](https://omarjarid.itch.io/virgola-supremo-signore-felino)
 
 ## Musician
 I'm currently playing in the following projects:
