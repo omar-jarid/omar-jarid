@@ -110,6 +110,9 @@ You can find my links here:
 - [all the links related to Jerid616Plays, my YouTube channel as a musician](https://linktr.ee/jerid616plays)
 - [all the links related to Cavaliere della Rosa Rossa](https://linktr.ee/cavalieredellarosarossa")
 
-<!-- ## Connect with me
-<a href="https://www.linkedin.com/in/omar-jarid/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/jerid616/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> -->
+## Connect with me
+<!-- <a href="https://www.linkedin.com/in/omar-jarid/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> -->
+<a href="https://www.instagram.com/jerid616v2/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<!--<a href="https://www.instagram.com/jerid616/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Bluesky"></a>
+<a href="https://www.instagram.com/jerid616/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Mastodon"></a>
+<a href="https://www.instagram.com/jerid616/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Pixelfed"></a>-->
