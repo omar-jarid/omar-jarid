@@ -94,7 +94,7 @@ I'm currently playing in the following projects:
 
 - [Cavaliere della Rosa Rossa](https://cavalieredellarosarossa.bandcamp.com), an ambient/dungeon synth one-man band
 - black metal project [Tre Pistoni](https://fidcborghesiassassini.bandcamp.com/album/lasciando-i-pensieri-umani), as a bassist
-- rock cover band Silverass, as a bassist and backing vocalist
+- rock cover band Silver Ass, as a bassist and backing vocalist
  
 I'm also member of Italian collective [Carcerem Lupi Underground Resistance](https://instagram.com/carceremlupiur), having taken part on:
 
