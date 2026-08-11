@@ -106,7 +106,7 @@ with my old project Scurìu with the track ["Score for a scene ov death undernea
 You can find my links here:
 
 - [all the links related to Jerid616Plays, my YouTube channel as a musician](https://linktr.ee/jerid616plays)
-- [all the links related to Cavaliere della Rosa Rossa](https://linktr.ee/cavalieredellarosarossa")
+- [all the links related to Cavaliere della Rosa Rossa](https://linktr.ee/cavalieredellarosarossa)
 
 ## Connect with me
 <!-- <a href="https://www.linkedin.com/in/omar-jarid/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> -->
