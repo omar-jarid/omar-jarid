@@ -1,6 +1,6 @@
 # Omar Jarid
 
-## Software Developer | JetBrains Fanboy | Dev against AI
+## Software Developer | JetBrains Fanboy | [![NO AI](https://raw.githubusercontent.com/nuxy/no-ai-badge/master/badge.svg)](https://github.com/nuxy/no-ai-badge#no-ai-badge)
 
 ### Languages and Tools
 
@@ -85,6 +85,7 @@
 
 --- 
 -->
+
 ## Games developed so far
 [Virgola, Supremo Signore Felino](https://omarjarid.itch.io/virgola-supremo-signore-felino)
 
