@@ -1,6 +1,6 @@
 # Omar Jarid
 
-## Software Developer and JetBrains Fanboy
+## Software Developer | JetBrains Fanboy | Dev against AI
 
 ### Languages and Tools
 
